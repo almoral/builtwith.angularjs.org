@@ -534,6 +534,18 @@
         "CSS3","bootstrap-js",
         "Ruby on Rails","Ruby","Mover.io","Productivity"
       ]
+    },
+      {
+      "name": "MDCBusinessLookup",
+      "thumb": "MDCBusinessLookup/thumb.png",
+      "desc": "Search for your tangible personal property information.",
+      "url": "http://www.miamidade.gov/pa/business_lookup.asp",
+      "submitter": "Almoral",
+      "submissionDate": "2012-11-24",
+      "tags": [
+        "jQuery","Production","HTML5",
+        "CSS3","Productivity"
+      ]
     }
   ]
 }
